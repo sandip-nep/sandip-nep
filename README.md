@@ -1,4 +1,4 @@
-# Hi there, I'm [Sandip Nepal]! 👋
+# Hi there, I'm Sandip Nepal! 👋
 
 <!--![Banner Image](your_banner_image_url_here)-->
 

@@ -3,14 +3,17 @@
 <!--![Banner Image](your_banner_image_url_here)-->
 
 ## About Me 🚀
+I’m a problem-driven developer with strong skills in Python and web development. I enjoy building practical solutions, automating things, and turning real-world problems into clean, working code. Always curious, always learning.
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+🌱 Currently learning: advanced backend systems, APIs, and system design
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+🔭 Working on: real-world Python projects, web apps, and automation tools
+
+🌍 Languages: Python, JavaScript, HTML, CSS | Human languages: English, Nepali
+
+📫 How to reach me: Reddit DMs
+
+⚡ Fun fact: I enjoy debugging more than writing new code
 
 ## My Skills 🧠
 

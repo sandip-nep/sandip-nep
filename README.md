@@ -21,7 +21,7 @@
 * SQL & DBMS
 * Problem Solving
 
-## Goals for 2026 🚀
+## Current Goals 🚀
 
 * Build real-world Python projects
 * Strengthen problem-solving skills
